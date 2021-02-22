@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# React Cart
+
+A shoping cart application built with React, using useReducer hook for state management.
+useContext hook is used to pass data throughout the app.
+
+![Imgur](https://i.imgur.com/dG7TDQd.gif)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
